@@ -3,6 +3,10 @@ title: Datenimport mit ALMA-Katalogabfrage für die Zentralbibliothek Zürich
 identifier: intranda_import_zbz_alma
 description: Dieses Import Plugin für Goobi workflow erlaubt das Einspielen von Daten mit anschließender Katalogabfrage aus ALMA, wie es für die Zentralbibliothek Zürich benötigt wird.
 published: true
+keywords:
+    - Goobi workflow
+    - Plugin
+    - Import Plugin
 ---
 
 ## Einführung
